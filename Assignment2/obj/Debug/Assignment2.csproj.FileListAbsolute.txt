@@ -1,0 +1,11 @@
+C:\SWE62-381 digital processing\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+C:\SWE62-381 digital processing\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.SuggestedBindingRedirects.cache
+C:\SWE62-381 digital processing\Assignment2\Assignment2\obj\Debug\Assignment2.Form1.resources
+C:\SWE62-381 digital processing\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+C:\SWE62-381 digital processing\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.cache
+C:\SWE62-381 digital processing\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\SWE62-381 digital processing\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\SWE62-381 digital processing\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\SWE62-381 digital processing\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\SWE62-381 digital processing\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\SWE62-381 digital processing\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
